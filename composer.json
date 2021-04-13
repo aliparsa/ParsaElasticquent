@@ -1,5 +1,5 @@
 {
-  "name": "aliparsa/elasticquent2",
+  "name": "aliparsa/parsaelasticquent",
   "type": "library",
   "description": "Maps Laravel Eloquent models to Elasticsearch types.",
   "keywords": [
