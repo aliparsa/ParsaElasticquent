@@ -1,5 +1,5 @@
 {
-  "name": "elasticquent/elasticquent",
+  "name": "aliparsa/elasticquent",
   "type": "library",
   "description": "Maps Laravel Eloquent models to Elasticsearch types.",
   "keywords": [
@@ -11,9 +11,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Adam Fairholm",
-      "email": "adam.fairholm@gmail.com",
-      "homepage": "http://adamfairholm.com"
+      "name": "Ali Parsa",
+      "email": "ali.parsa.p@gmail.com",
+      "homepage": "https://github.com/aliparsa/Elasticquent"
     }
   ],
   "require": {
